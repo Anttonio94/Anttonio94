@@ -1,14 +1,6 @@
 body{
-    margin:0;
-    padding:0;
-    height: 100px;
-    background-color: rgb(0, 66, 165);
-     background-image: url(./assets/fundooficialjpg);
-     background-position: ;
-   
-   
-    
-
+    margin:0%;
+    padding:0%;
 }
 
 header{
@@ -54,23 +46,17 @@ h1 {
 }
 
 /* caixa apresentacao*/
-h2 {
-    border-width: 14cm;
-    margin: 4%;
-    font-size: 20px;
-   
-    color:rgb(207, 210, 223);
-    background-color: rgb(101, 101, 105);
-    background-image: url(./banner.jpg);
-    border:15px solid rgb(247, 242, 242);
 
-}
+
  
 
-h2 p{
+main{
     margin:9%;
-    background-color: rgb(57, 57, 88);
-    
+    color:rgb(242, 247, 247);
+    background-color: rgb(5, 5, 5);
+    padding:50px;
+    border: 1px solid  rgb(205, 250, 3);
+    border-radius: 15px;
 
 }
 

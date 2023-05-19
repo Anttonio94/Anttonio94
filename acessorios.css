@@ -45,9 +45,13 @@ h1 {
 
 /*--servicos--*/
 
-.caixa{
-   display: flex;
-   gap: 25px;
+.caixa {
+    padding:10px;
+   display: grid;
+   grid-template-columns: 1fr 1fr;
+   gap:5px
+   
+ 
 }
 .caixa{
     display: inline-block;
